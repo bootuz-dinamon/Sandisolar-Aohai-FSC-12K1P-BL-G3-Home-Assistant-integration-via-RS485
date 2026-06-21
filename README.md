@@ -2,7 +2,7 @@
 Sandisolar Aohai FSC-12K1P-BL-G3 Home Assistant integration via RS485.
 
 
-![Sandisolar Aohai AO-6KSL-G3](https://github.com/bootuz-dinamon/Sandisolar-Aohai-AO-6KSL-G3-Home-Assistant-integration/blob/main/SD-PRO-EU-6_8.webp)
+![Sandisolar Aohai FSC-12K1P-BL-G3]([https://github.com/bootuz-dinamon/Sandisolar-Aohai-AO-6KSL-G3-Home-Assistant-integration/blob/main/SD-PRO-EU-6_8.webp](https://github.com/bootuz-dinamon/Sandisolar-Aohai-FSC-12K1P-BL-G3-Home-Assistant-integration-via-RS485/blob/main/SD-PRO-EU12K_1.webp))
 
 Source: https://bootuse.com/forum/viewtopic.php?p=25#p25
 
