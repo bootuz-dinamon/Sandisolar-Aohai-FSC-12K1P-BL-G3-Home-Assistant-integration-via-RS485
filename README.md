@@ -8,9 +8,9 @@ Source: https://bootuse.com/forum/viewtopic.php?p=25#p25
 
 If you have established communication with the battery via CAN, then you still have free RS485 and it can be used for integration into Home Assistant.
 
-Off-grid solar inverter Sandisolar 6.5kW - https://s.click.aliexpress.com/e/_c3pTJSjF
+Off-grid solar inverter Sandisolar 12W -[ https://s.click.aliexpress.com/e/_c3pTJSjF](https://s.click.aliexpress.com/e/_c350GX01)
 
-The inverter's rated output power is 6000W.
+The inverter's rated output power is 12000W.
 The inverter does not have the Neutral formation function in off-grid mode if Grounding is present.
 
 
@@ -19,7 +19,7 @@ RS485-TTL adapter power supply - 5V, connection to the inverter - only lines A a
 - RS485-TTL - https://s.click.aliexpress.com/e/_c3yN9U9d
 - esp32c6 - https://s.click.aliexpress.com/e/_c3HYdofD
 
-Pinout RJ45 Sandisolar Aohai AO-6KSL-G3:
+Pinout RJ45 Sandisolar Aohai FSC-12K1P-BL-G3:
 BAT_NTC and GND - you can connect a 10kΩ NTC to these pins to measure battery temperature.
 If you don't need this, comment out the "Temp External NTC" sensor.
 
