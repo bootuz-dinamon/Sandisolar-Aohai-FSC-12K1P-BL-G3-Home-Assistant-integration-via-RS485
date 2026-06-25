@@ -2,13 +2,13 @@
 Sandisolar Aohai FSC-12K1P-BL-G3 Home Assistant integration via RS485.
 
 
-![Sandisolar Aohai FSC-12K1P-BL-G3](https://github.com/bootuz-dinamon/Sandisolar-Aohai-FSC-12K1P-BL-G3-Home-Assistant-integration-via-RS485/blob/main/SD-PRO-EU12K_1.webp))
+![Sandisolar Aohai FSC-12K1P-BL-G3](https://github.com/bootuz-dinamon/Sandisolar-Aohai-FSC-12K1P-BL-G3-Home-Assistant-integration-via-RS485/blob/main/SD-PRO-EU12K_1.webp)
 
 Source: https://bootuse.com/forum/viewtopic.php?p=25#p25
 
 If you have established communication with the battery via CAN, then you still have free RS485 and it can be used for integration into Home Assistant.
 
-Off-grid solar inverter Sandisolar 12W -[ https://s.click.aliexpress.com/e/_c3pTJSjF](https://s.click.aliexpress.com/e/_c350GX01)
+Off-grid solar inverter Sandisolar 12W -[https://s.click.aliexpress.com/e/_c350GX01](https://s.click.aliexpress.com/e/_c350GX01)
 
 The inverter's rated output power is 12000W.
 The inverter does not have the Neutral formation function in off-grid mode if Grounding is present.
