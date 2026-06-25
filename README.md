@@ -36,3 +36,9 @@ Settings:
 ![Settings](https://github.com/bootuz-dinamon/Sandisolar-Aohai-AO-6KSL-G3-Home-Assistant-integration/blob/main/Setting1.jpg)
 ![Settings](https://github.com/bootuz-dinamon/Sandisolar-Aohai-AO-6KSL-G3-Home-Assistant-integration/blob/main/Setting2.jpg)
 ![Settings](https://github.com/bootuz-dinamon/Sandisolar-Aohai-AO-6KSL-G3-Home-Assistant-integration/blob/main/Setting3.jpg)
+
+
+https://youtu.be/TBxnA7RYiUc
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TBxnA7RYiUc/0.jpg)](https://www.youtube.com/watch?v=TBxnA7RYiUc)
+
