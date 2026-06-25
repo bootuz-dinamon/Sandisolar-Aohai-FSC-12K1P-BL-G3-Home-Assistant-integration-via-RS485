@@ -1,7 +1,5 @@
 # Sandisolar-Aohai-FSC-12K1P-BL-G3-Home-Assistant-integration-via-RS485
 Sandisolar Aohai FSC-12K1P-BL-G3 Home Assistant integration via RS485.
-
-
 ![Sandisolar Aohai FSC-12K1P-BL-G3](https://github.com/bootuz-dinamon/Sandisolar-Aohai-FSC-12K1P-BL-G3-Home-Assistant-integration-via-RS485/blob/main/SD-PRO-EU12K_1.webp)
 
 Source: https://bootuse.com/forum/viewtopic.php?p=25#p25
@@ -12,7 +10,6 @@ Off-grid solar inverter Sandisolar 12W -[https://s.click.aliexpress.com/e/_c350G
 
 The inverter's rated output power is 12000W.
 The inverter does not have the Neutral formation function in off-grid mode if Grounding is present.
-
 
 You will need an RS485-TTL adapter and an esp32 (I use an esp32c6 but the correct one).
 RS485-TTL adapter power supply - 5V, connection to the inverter - only lines A and B (without GND).
@@ -38,7 +35,6 @@ Settings:
 ![Settings](https://github.com/bootuz-dinamon/Sandisolar-Aohai-AO-6KSL-G3-Home-Assistant-integration/blob/main/Setting3.jpg)
 
 
-https://youtu.be/TBxnA7RYiUc
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TBxnA7RYiUc/0.jpg)](https://www.youtube.com/watch?v=TBxnA7RYiUc)
 
